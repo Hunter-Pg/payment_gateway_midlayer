@@ -1,0 +1,20 @@
+//export const BUILD_YCPGW_PAYMENT_PROCESSOR = 'Build YCPGW Payment Processor';
+export const BUILD_YCPGW_PAYMENT_PROCESSOR = 'new YCPGW_Payment_Processor(:Input) ';
+export const EXPECT_INPUT_EXPECT_OUTPUT = 'Expected Input && Expected Output';
+export const INPUT_STRING_TESTING_MODE = 'Input String: Testing MODE';
+export const INPUT_STRING_PRODUCTION_MODE = 'Input String: Production MODE';
+export const INPUT_STRING_PRODUCTION_MODE_WITHOUT_ARGUMENT = 'Input String: Production MODE Without Argument: payment_test_mode';
+export const INPUT_OBJECT_TESTING_MODE = 'Input Object: Testing MODE';
+export const INPUT_OBJECT_PRODUCTION_MODE = 'Input Object: Production MODE';
+export const INPUT_OBJECT_PRODUCTION_MODE_WITHOUT_ARGUMENT = 'Input Object: Production MODE Without Argument: payment_test_mode';
+export const INPUT_CLASS_TESTING_MODE = 'Input Class: Testing MODE';
+export const INPUT_CLASS_PRODUCTION_MODE = 'Input Class: Production MODE';
+export const INPUT_CLASS_PRODUCTION_MODE_WITHOUT_ARGUMENT = 'Input Class: Production MODE Without Argument: payment_test_mode';
+
+export const UNEXPECT_INPUT_EXPECT_OUTPUT = 'Unexpect Input && Expect Output';
+export const MISSING_PROVIDER_TYPE = 'Missing Provider Type';
+export const MISSING_PROVIDER_KEY = 'Missing Provider Key';
+export const MISSING_PROVIDER_SECRET = 'Missing Provider Secret';
+export const MISSING_PROVIDER_URL = 'Missing Provider Url';
+export const MISSING_PROVIDER_USER = 'Missing Provider User';
+export const MISSING_PROVIDER_PASSWORD = 'Missing Provider Password';
